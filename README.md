@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mxoop&show_icons=true&theme=buefy" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mxoop&show_icons=true&theme=buefy&hide_title=true" />
 
 ### Hi world! 👋
 
