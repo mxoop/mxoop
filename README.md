@@ -16,3 +16,11 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mxoop&show_icons=true&theme=buefy&hide_title=true" width="49%" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxoop&layout=compact&theme=buefy&hide_title=true" width="41%" />
+
+#### 🐍 贡献贪吃蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxoop/mxoop/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mxoop/mxoop/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
+</picture>
+
